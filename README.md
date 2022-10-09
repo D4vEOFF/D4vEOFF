@@ -8,6 +8,9 @@ I'm a high school **mathematics** and **computer science** teacher. I am also a 
 - **Programming languages**: _C, C++, C#, Python, Java, SQL, LaTeX_
 - **Software**: _Unity_
 
+## Work and projects
+- [**Combinatorial Basics**](https://github.com/D4vEOFF/Combinatorial-Basics)
+
 ## References
 - [**Personal website**](https://d4veoff.thekrew.app/)
 - [**The Krew website**](https://thekrew.app/)
