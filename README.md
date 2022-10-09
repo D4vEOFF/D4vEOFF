@@ -11,6 +11,8 @@ I'm a high school **mathematics** and **computer science** teacher. I am also a 
 ## Work and projects
 - [**Combinatorial Basics**](https://github.com/D4vEOFF/Combinatorial-Basics)
   - Formerly created for the purposes of tutoring
+  - Open-source project
+  - Released under *Mozilla Public License*
 
 ## References
 - [**Personal website**](https://d4veoff.thekrew.app/)
