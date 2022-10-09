@@ -1,7 +1,7 @@
 # David "D4vEOFF" Weber
 
 ## About
-I'm a high school **mathematics** and **computer science** teacher. I am also a student of these fields on a master's program. I am primarily interested in didactics of theoretical computer science, desktop programming and also related parts of mathematics.
+I'm a high school **mathematics** and **computer science** teacher. I am also a student of these fields on a master's program at university. I am primarily interested in didactics of theoretical computer science, desktop programming and also related parts of mathematics.
 
 ## Skills
 - **Languages**: _Czech (native), English (C1)_
