@@ -15,7 +15,7 @@ I'm a high school **mathematics** and **computer science** teacher. I am also a 
   - Released under *Mozilla Public License*
 - [**Brief Introduction To Set Theory For Highschools**](https://github.com/D4vEOFF/Brief-Introduction-To-Set-Theory-For-High-Schools)
   - Bachelor thesis wrote at **Faculty of Mathematics and Physics at Charles University in Prague**
-  - Didactic material for high school students
+  - Didactic material for highschool students
   - Qualified to **SVOČ** student competition
   - First release in 2022
   - Released under *Creative Commons Zero* license
