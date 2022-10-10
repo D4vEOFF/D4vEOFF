@@ -10,9 +10,14 @@ I'm a high school **mathematics** and **computer science** teacher. I am also a 
 
 ## Work and projects
 - [**Combinatorial Basics**](https://github.com/D4vEOFF/Combinatorial-Basics)
-  - Formerly created for the purposes of tutoring
+  - Originally created for purposes of tutoring
   - Simple open-source project
   - Released under *Mozilla Public License*
+- [**Brief Introduction To Set Theory For High Schools**](https://github.com/D4vEOFF/Brief-Introduction-To-Set-Theory-For-High-Schools)
+  - Bachelor thesis wrote at **Faculty of Mathematics and Physics at Charles University in Prague**
+  - Didactic material for high school students
+  - First release in 2022
+  - Released under *Creative Commons Zero* license
 
 ## References
 - [**Personal website**](https://d4veoff.thekrew.app/)
