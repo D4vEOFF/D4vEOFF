@@ -9,7 +9,7 @@ I'm a high school **mathematics** and **computer science** teacher. I am also a 
 - **Software**: _Unity_
 
 ## Work and projects
-- [**Combinatorial Basics**](https://github.com/D4vEOFF/Combinatorial-Basics)
+- [**Combinatorial Basics For Highschools**](https://github.com/D4vEOFF/Combinatorial-Basics-For-Hishchools)
   - Originally created for purposes of tutoring
   - Simple open-source project
   - Released under *Mozilla Public License*
