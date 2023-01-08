@@ -6,7 +6,6 @@ I'm a high school **mathematics** and **computer science** teacher. I am also a 
 ## Skills
 - **Languages**: _Czech (native), English (C1)_
 - **Programming languages**: _C, C++, C#, Python, Java, SQL, LaTeX_
-- **Software**: _Unity_
 
 ## Work and projects
 - [**Combinatorial Basics For Highschools**](https://github.com/D4vEOFF/Combinatorial-Basics-For-Hishchools)
