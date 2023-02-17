@@ -3,7 +3,7 @@
 ## About
 I'm a high school **mathematics** and **computer science** teacher. I am also a student of these fields on a master's program at university. My primary interests are in didactics of theoretical computer science, desktop programming and also related parts of mathematics.
 
-In my free time, I like to learn new languages (German at this point) and occasionaly play videogames.
+In my free time, I like to learn new languages and occasionaly play videogames.
 
 ## Skills
 - **Languages**: _Czech (native), English (C1)_
