@@ -17,7 +17,7 @@ In my free time, I like to learn new languages and occasionaly play videogames.
 - [**Combinatorial Basics For Highschools**](https://github.com/D4vEOFF/Combinatorial-Basics-For-Hishchools)
   - Originally created for purposes of tutoring
   - Simple open-source project
-  - Released under *Creative Commons Zero v1.0 Universal*
+  - Released under *Creative Commons Zero v1.0 Universal* license
 - [**A Brief Introduction To Set Theory For Highschools**](https://github.com/D4vEOFF/Brief-Introduction-To-Set-Theory-For-High-Schools)
   - Bachelor thesis written at **Faculty of Mathematics and Physics at Charles University in Prague**
   - Didactic material for highschool students
