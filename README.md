@@ -12,7 +12,8 @@ In my free time, I like to learn new languages (German at this point) and occasi
 ## Work and projects
 - [**Teaching Materials**](https://github.com/D4vEOFF/Teaching-Materials)
   - Teaching materials used in my classes
-  - Designed primarily for students of SPŠE Ječná 
+  - Designed primarily for students of *SPŠE Ječná*
+  - Released under *MIT License*
 - [**Combinatorial Basics For Highschools**](https://github.com/D4vEOFF/Combinatorial-Basics-For-Hishchools)
   - Originally created for purposes of tutoring
   - Simple open-source project
