@@ -10,6 +10,9 @@ In my free time, I like to learn new languages (German at this point) and occasi
 - **Programming languages**: _C, C++, C#, Python, Java, SQL, LaTeX_
 
 ## Work and projects
+- [**Teaching Materials**](https://github.com/D4vEOFF/Teaching-Materials)
+  - Teaching materials used in my classes
+  - Designed primarily for students of SPŠE Ječná 
 - [**Combinatorial Basics For Highschools**](https://github.com/D4vEOFF/Combinatorial-Basics-For-Hishchools)
   - Originally created for purposes of tutoring
   - Simple open-source project
