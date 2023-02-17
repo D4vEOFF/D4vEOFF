@@ -17,10 +17,10 @@ In my free time, I like to learn new languages (German at this point) and occasi
 - [**Combinatorial Basics For Highschools**](https://github.com/D4vEOFF/Combinatorial-Basics-For-Hishchools)
   - Originally created for purposes of tutoring
   - Simple open-source project
-  - Released under *Mozilla Public License*
+  - Released under *Creative Commons Zero v1.0 Universal*
 - [**A Brief Introduction To Set Theory For Highschools**](https://github.com/D4vEOFF/Brief-Introduction-To-Set-Theory-For-High-Schools)
   - Bachelor thesis written at **Faculty of Mathematics and Physics at Charles University in Prague**
   - Didactic material for highschool students
   - Qualified to **SVOČ** student competition
   - First release in 2022
-  - Released under *Creative Commons Zero* license
+  - Released under *Creative Commons Zero v1.0 Universal* license
