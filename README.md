@@ -18,7 +18,3 @@ I'm a high school **mathematics** and **computer science** teacher. I am also a 
   - Qualified to **SVOČ** student competition
   - First release in 2022
   - Released under *Creative Commons Zero* license
-
-## References
-- [**Personal website**](https://d4veoff.thekrew.app/)
-- [**The Krew website**](https://thekrew.app/)
